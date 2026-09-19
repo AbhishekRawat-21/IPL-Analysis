@@ -181,3 +181,30 @@ The analysis produced several notable findings from the 2008–2020 IPL data:
 - Eden Gardens hosted 77 matches, making it the most frequently used venue in the analyzed dataset.
 - The highest individual team innings score in the analysis was 263 runs by Royal Challengers Bangalore.
 - Gujarat Lions recorded the highest average runs per match at approximately 161.87, based on the analyzed data.
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates how Python and SQL can be used to analyze real-world sports data and extract meaningful insights.
+
+The project involved:
+
+- Cleaning and validating match and ball-by-ball datasets.
+- Performing feature engineering by extracting the IPL season.
+- Conducting match-level and delivery-level Exploratory Data Analysis.
+- Using Pandas and SQL to answer analytical questions.
+- Creating visualizations using Matplotlib.
+- Comparing team and player performance using multiple metrics.
+- Communicating findings through data-driven insights.
+- 
+Overall, the project provided practical experience in data cleaning, exploratory data analysis, SQL, Python, data visualization, and analytical thinking while working with a real-world sports dataset.
+
+---
+
+## 📬 Contact
+
+If you have any suggestions or feedback regarding this project, feel free to connect with me on LinkedIn.
+Abhishek Rawat
+- LinkedIn: https://www.linkedin.com/in/abhishek-rawat-790132380/
+- GitHub: https://github.com/AbhishekRawat-21
