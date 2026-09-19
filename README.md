@@ -125,9 +125,59 @@ The delivery-level dataset was used to analyze:
 
 ## 📈 Exploratory Data Analysis & Visualizations
 
-1. Matches Played per Season
-   
-Shows the number of IPL matches played in each season from 2008 to 2020.
+## 📈 Visualizations
 
+1. **Matches Played per Season**
 
+   ![Matches Played per Season](graph/Matches%20playes%20per%20Season.png)
 
+2. **Total Wins by Team**
+
+   ![Total Wins by Team](graph/Total%20Wins%20by%20Team.png)
+
+3. **Winning Percentage by Team**
+
+   ![Winning Percentage by Team](graph/Winning%20Percentage%20by%20Team.png)
+
+4. **Most Used Venues**
+
+   ![Most Used Venues](graph/Most%20used%20Venues.png)
+
+5. **Top 5 Players of the Match**
+
+   ![Top 5 Players of the Match](graph/Top%205%20player%20of%20the%20Match.png)
+
+6. **Toss Winner vs Match Winner**
+
+   ![Toss Winner vs Match Winner](graph/Toss%20Winner%20vs%20Match%20Winner.png)
+
+7. **Top 10 Run Scorers in IPL**
+
+   ![Top 10 Run Scorers](graph/Top%2010%20run%20scorers%20in%20IPL%20%282008-2020%29.png)
+
+8. **Top 10 Wicket Takers**
+
+    ![Top 10 Wicket Takers](graph/Top%2010%20wicket%20takers.png)
+
+9. **Top 10 Players with Most Sixes**
+
+    ![Top 10 Players with Most Sixes](graph/Top%2010%20Players%20with%20Most%20Sixes.png)
+
+10. **Average Runs per Match by Team**
+
+     ![Average Runs per Match by Team](graph/Average%20Runs%20per%20Match%20by%20Team.png)
+
+---
+
+## 💡 Key Insights**
+
+The analysis produced several notable findings from the 2008–2020 IPL data:
+- Mumbai Indians recorded the highest number of wins with 120 victories during the analyzed period.
+- V Kohli recorded the highest total runs with 5,878, followed by SK Raina with 5,368 runs.
+- SL Malinga recorded the highest number of wickets with 188, followed by DJ Bravo with 175 wickets.
+- CH Gayle recorded the highest number of sixes with 349.
+- The toss winner won 418 out of 816 matches (51.23%), while losing 398 matches (48.77%). This indicates only a small difference between winning and losing after winning the toss.
+- Teams chose to field first in 496 matches (60.78%), compared with 320 matches (39.22%) where they chose to bat first.
+- Eden Gardens hosted 77 matches, making it the most frequently used venue in the analyzed dataset.
+- The highest individual team innings score in the analysis was 263 runs by Royal Challengers Bangalore.
+- Gujarat Lions recorded the highest average runs per match at approximately 161.87, based on the analyzed data.
