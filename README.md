@@ -95,30 +95,30 @@ This project follows a structured Data Analytics workflow:
 
 ---
 
-## 📁 Repository Structure
+## 📊 Analysis Performed
 
-```text
-IPL-Data-Analysis/
-│
-├── graph/
-│   ├── Average Runs per Match by Team.png
-│   ├── IPL Matches Won by Each Team (2008–2020).png
-│   ├── Matches playes per Season.png
-│   ├── Most used Venues.png
-│   ├── Top 10 Players with Most Sixes.png
-│   ├── Top 10 run scorers in IPL (2008-2020).png
-│   ├── Top 10 wicket takers.png
-│   ├── Top 5 player of the Match.png
-│   ├── Toss Winner vs Match Winner.png
-│   ├── Total Wins by Team.png
-│   └── Winning Percentage by Team.png
-│
-├── IPL dataset (2008-2020).ipynb
-├── IPL Matches 2008-2020.csv
-├── IPL Ball-by-Ball 2008-2020.csv
-├── README.md
-├── requirements.txt
-└── .gitignore
+Match-Level Analysis
 
+The match-level dataset was used to analyze:
+
+- Number of matches played in each IPL season
+- Total wins by each team
+- Winning percentage by team
+- Toss decisions
+- Toss winner vs match winner
+- Team performance after choosing to bat or field
+- Player of the Match awards
+- Most frequently used venues
+
+Ball-by-Ball Analysis
+
+The delivery-level dataset was used to analyze:
+
+- Top run scorers
+- Top wicket takers
+- Players with the most sixes
+- Total runs scored by each team
+- Highest team innings scores
+- Average runs per match by team
 
 
