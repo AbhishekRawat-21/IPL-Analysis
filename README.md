@@ -97,7 +97,7 @@ This project follows a structured Data Analytics workflow:
 
 ## 📊 Analysis Performed
 
-Match-Level Analysis
+i) Match-Level Analysis
 
 The match-level dataset was used to analyze:
 
@@ -110,7 +110,7 @@ The match-level dataset was used to analyze:
 - Player of the Match awards
 - Most frequently used venues
 
-Ball-by-Ball Analysis
+ii) Ball-by-Ball Analysis
 
 The delivery-level dataset was used to analyze:
 
@@ -120,5 +120,14 @@ The delivery-level dataset was used to analyze:
 - Total runs scored by each team
 - Highest team innings scores
 - Average runs per match by team
+
+---
+
+## 📈 Exploratory Data Analysis & Visualizations
+
+1. Matches Played per Season
+   
+Shows the number of IPL matches played in each season from 2008 to 2020.
+
 
 
